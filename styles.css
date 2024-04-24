@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    max-width: 800px;
+    margin: 3% auto;
+    line-height: 1.8;
+    background-color: rgb(197, 234, 242);
+    padding: 20px;
+}
+
+
+
+.newsletter {
+    text-align: left;
+}
+
+.newsletter h1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.newsletter p {
+    margin-bottom: 10px;
+}
+
+
+
+.button {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
